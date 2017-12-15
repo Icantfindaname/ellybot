@@ -1,4 +1,4 @@
-**Outdated. Need to rework.**
+**This is a copy of appu1232/Discord-Reddit-Bot**
 
 # Reddit Notifier Discord Bot
 
